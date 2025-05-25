@@ -1,0 +1,13 @@
+# File konfigurasi Odoo yang berisi kredensial sensitif
+odoo.conf
+
+# File sementara Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# File log atau database sementara
+*.log
+*.sql
